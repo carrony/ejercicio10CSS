@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2c3e50;
+    max-width: 800px;
+    margin: 0 auto;
+    background-image: url("../imagenes/decoracion.jpg");
+}
+
+.perfil {
+    width: 30%;
+    display: block;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+main {
+    background-color: rgba(206,28,172,0.4);
+    padding: 40px;
+    height: 100vh;
+}
+
+em {
+    color: #528dc9;
+}
